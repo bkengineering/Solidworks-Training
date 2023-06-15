@@ -1,4 +1,5 @@
 # Solidworks_Training
+
 ## Introduction To Solidworks Training
 
 Solidworks is a 3D modeling, parametric application software. It improves visualization, collaboration, and innovation, besides improving efficiencies in every downstream function of the product development process. It has both parametric and direct modeling capabilities. SolidWorks is known for its user-friendly GUI with quick-to-understand features that come in handy for design development.
@@ -92,7 +93,6 @@ Solidworks has a large community of users, and employers frequently seek candida
 
 
 ### Follow BK Engineering:
-
 - LinkedIn: [BK Engineering](https://www.linkedin.com/company/bk-engineering-in)
 - Instagram: [BK Engineering](https://www.instagram.com/bkengineering)
 - Facebook: [BK Engineering](https://www.facebook.com/bkengineering.in)
