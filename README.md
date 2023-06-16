@@ -1,4 +1,9 @@
 # Solidworks_Training
+![Solidworks](https://github.com/bkengineering/Solidworks-Training/assets/136553846/52d55514-de75-4991-b834-bc44ab64d41e)
+
+[https://www.bk-engineering.in/mechanical-cad-training/solidworks-training](https://www.bk-engineering.in/mechanical-cad-training/solidworks-training)
+
+[https://www.bk-engineering.in/challenge-page/free-solidworks-training](https://www.bk-engineering.in/challenge-page/free-solidworks-training)
 
 ## Introduction To Solidworks Training
 
@@ -91,15 +96,20 @@ Solidworks has a large community of users, and employers frequently seek candida
 - Creating Break Corner/Corner Trim, Closed Corners, Rip
 - Inserting Sketched Bend, Fold/Unfold, Forming Tools
 
+## Soildwork Course Demo:
+[https://youtu.be/lBkwOPBemoc](https://youtu.be/lBkwOPBemoc)
 
-### Follow BK Engineering:
+## For more information, please contact us at:
+
+Phone: 7981328897
+
+Email: [info@bk-engineering.in](mailto:info@bk-engineering.in)
+
+## Follow us on social media:
+
 - LinkedIn: [BK Engineering](https://www.linkedin.com/company/bk-engineering-in)
-- Instagram: [BK Engineering](https://www.instagram.com/bkengineering)
+- Instagram: [bkengineering](https://www.instagram.com/bkengineering)
 - Facebook: [BK Engineering](https://www.facebook.com/bkengineering.in)
-- Twitter: [BK Engineering](https://twitter.com/bkengineeringin)
-- Website: [BK Engineering](https://bk-engineering.in/)
+- Twitter: [bkengineeringin](https://twitter.com/bkengineeringin)
+- Website: [https://bk-engineering.in/](https://bk-engineering.in/)
 - YouTube: [BK Engineering](https://www.youtube.com/@bkengineering)
-
-
-
-
